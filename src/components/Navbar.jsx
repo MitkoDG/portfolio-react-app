@@ -9,7 +9,7 @@ const Navbar = () => {
         <img src={Logo} alt="Logo" style={{ width: "50px" }} />
       </div>
       <div>
-        <ul>
+        <ul className="flex">
           <li>Home</li>
           <li>About</li>
           <li>Skills</li>
